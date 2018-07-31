@@ -1,3 +1,5 @@
+// TODO: add sign out
+
 import React, { Component } from 'react';
 import { Storage } from 'aws-amplify';
 import { withAuthenticator } from 'aws-amplify-react';
